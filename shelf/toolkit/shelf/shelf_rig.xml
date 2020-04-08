@@ -1,0 +1,1 @@
+<root><item annotation="create joint" command="import maya.cmds as cmds;cmds.joint();" icon="icon_publish.png" label="create joint" type="Shelf Button" /><item type="Separator" /><item annotation="skinner" command="import maya.cmds as cmds;cmds.SmoothBindSkin();" icon="icon_check.png" label="Check" type="Shelf Button" /></root>

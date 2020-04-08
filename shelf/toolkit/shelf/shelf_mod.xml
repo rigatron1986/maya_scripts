@@ -1,0 +1,1 @@
+<root><item annotation="sphere maker" command="import maya.cmds as cmds;cmds.polySphere();" icon="icon_name_check.png" label="create sphere" type="Shelf Button" /><item annotation="Toggle Mod Display" command="import maya.cmds as cmds;cmds.polyCube()" icon="icon_iso.png" label="Display Toggle" type="Shelf Button" /></root>

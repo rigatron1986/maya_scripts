@@ -1,0 +1,12 @@
+<root>
+    <sub_menu name="utl"/>
+    <sub_menu name="mod"/>
+    <sub_menu name="rig"/>
+    <sub_menu name="prv"/>
+    <sub_menu name="lay"/>
+    <sub_menu name="ani"/>
+    <sub_menu name="lgt"/>
+    <sub_menu name="tex"/>
+    <sub_menu name="dem"/>
+    <sub_menu name="efx"/>
+</root>
